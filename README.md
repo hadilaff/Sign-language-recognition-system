@@ -14,3 +14,5 @@ Steps to develop sign language recognition project
 3.Training a CNN on the captured dataset using the transfer learning.
 
 4.Real time detection using a webcam 
+
+![Screenshot from 2024-05-09 14-12-07](https://github.com/hadilaff/Sign-language-recognition-system/assets/58861613/069c67d6-b82c-42a3-af4c-56f7e10da90c)
